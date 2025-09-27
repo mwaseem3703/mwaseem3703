@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hey 👋, I'm M Waseem</h1>
 🔭 I’m currently working on building full-stack web applications with React.js, Node.js, Express, and MongoDB<br><br>👯 I’m looking to collaborate on open-source frontend projects, UI/UX design implementations, and React/Tailwind CSS component libraries<br><br>🤝 I’m looking for help with exploring advanced backend integrations and scalable deployment strategies (Docker, CI/CD, cloud hosting)<br><br>🌱 I’m currently learning Next.js, TypeScript, and performance optimization techniques<br><br>💬 Ask me about Frontend development, React.js, Tailwind CSS, API integration, and MERN stack projects<br><br>⚡ Fun fact: I love turning Figma designs into responsive websites, and I enjoy solving debugging challenges like puzzles 🚀
 
 
@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Waseem3703&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
