@@ -18,9 +18,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%"/><br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Waseem3703&theme=dark&hide_border=false" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Waseem3703&theme=dark&hide_border=false" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 
@@ -32,14 +32,11 @@
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Waseem3703&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Waseem3703&icon=0&color=0"/>
-  </a>
+[![](https://visitcount.itsvg.in/api?id=Waseem3703&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </p>
 
 
