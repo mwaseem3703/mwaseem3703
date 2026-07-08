@@ -35,19 +35,6 @@ I focus on engineering high-performance web products, SaaS platforms, and dynami
 
 ---
 
-### 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwaseem3703&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Waseem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaseem3703&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaseem3703&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
-</p>
-
----
-
 ### 💼 Connect & Hire Me
 Let's collaborate to scale your digital product. Drop me a line or hire me directly through the platforms below:
 
