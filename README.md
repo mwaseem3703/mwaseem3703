@@ -1,42 +1,64 @@
-<h1 align="center">Hey 👋, I'm M Waseem</h1>
+# Hi there,! 👋
+**Full-Stack Engineer | Laravel & MERN | Firebase & Supabase Expert**
 
-🔭 I’m currently working on building full-stack web applications with React.js, Node.js, Express, and MongoDB<br><br>
-👯 I’m looking to collaborate on open-source frontend projects, UI/UX design implementations, and React/Tailwind CSS component libraries<br><br>
-🤝 I’m looking for help with exploring advanced backend integrations and scalable deployment strategies (Docker, CI/CD, cloud hosting)<br><br>
-🌱 I’m currently learning Next.js, TypeScript, and performance optimization techniques<br><br>
-💬 Ask me about Frontend development, React.js, Tailwind CSS, API integration, and MERN stack projects<br><br>
-⚡ Fun fact: I love turning Figma designs into responsive websites, and I enjoy solving debugging challenges like puzzles 🚀<br><br>
-👨‍💻 Visit my <a href="https://webdevelopermwaseem.vercel.app/" target="_blank">Portfolio</a><br><br>
-📫 Contact me at: <a href="mailto:waseemkhan3703@gmail.com">Contact Me</a>
+Are you looking for a dedicated Full-Stack Engineer to build a secure, fast, and scalable web application from the ground up? Let's bring your vision to life with clean, production-ready architecture.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mwaseem3703/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseemkhan3703@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Waseem3703&theme=dark&hide_border=false" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem3703&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Waseem3703&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+I focus on engineering high-performance web products, SaaS platforms, and dynamic internal business tools. Instead of relying on a single tool, I master both the PHP and modern JavaScript ecosystems to select the absolute best architecture tailored perfectly to your project's specific scale, security demands, and budget.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Waseem3703&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🏆 Why Work With Me
+* ✔ **Production-Ready Full-Stack Systems:** From deep relational database mapping to interactive dashboards.
+* ✔ **Clean & Maintainable Architecture:** Code written to modern engineering standards for effortless future scaling.
+* ✔ **Performance & Security First:** Optimized query execution loops, secure user authentication, and minimal page load latency.
+* ✔ **Seamless API & Integration Design:** Custom RESTful API development and seamless third-party connections.
 
+---
+
+### 🛠️ Core Technical Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend & Cloud** | Laravel (PHP), Node.js, Express.js, Firebase, Firestore, Supabase |
+| **Databases** | MySQL, PostgreSQL |
+| **Frontend UI** | React.js, Next.js, Vue.js, JavaScript (ES6+), TypeScript |
+| **Styling** | Tailwind CSS, Bootstrap, Material UI (MUI) |
+
+---
+
+### 🔥 What I Can Help You Build
+* Building custom web applications and SaaS MVP platforms from scratch.
+* Developing robust backends with complex relational database management schemas.
+* Transitioning projects smoothly into modern cloud infrastructure using Firebase or Supabase.
+* Creating fast, single-page interfaces connected seamlessly to background APIs.
+* Modernizing legacy applications, refactoring code bases, and optimizing load times.
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwaseem3703&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Waseem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaseem3703&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaseem3703&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
+</p>
 
+---
+
+### 💼 Connect & Hire Me
+Let's collaborate to scale your digital product. Drop me a line or hire me directly through the platforms below:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mwaseem3703/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01609e9ae4a9088276" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
+
+* 💰 **Hourly Rate:** $6.00/hr
+* 📬 **Let's Discuss:** Feel free to open a conversation to discuss your technical requirements today!
